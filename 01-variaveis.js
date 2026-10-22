@@ -6,7 +6,6 @@
 let nome = "Kauã";
 
 
-
 /* O JavaScript possui três formas de declarar variáveis */
 
 // 1 - const
